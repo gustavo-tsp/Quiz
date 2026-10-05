@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+ranking.json
+.venv/
+.vscode/
+.idea/
+.DS_Store

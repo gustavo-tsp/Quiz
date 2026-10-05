@@ -1,0 +1,168 @@
+[
+  {
+    "categoria": "Programação",
+    "pergunta": "Qual símbolo inicia um comentário de uma linha em Python?",
+    "opcoes": ["#", "//", "--", "/*"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Programação",
+    "pergunta": "O que significa a sigla HTML?",
+    "opcoes": [
+      "HyperText Markup Language",
+      "High Transfer Machine Language",
+      "HyperTool Multi Language",
+      "Home Text Markup Level"
+    ],
+    "resposta": 0
+  },
+  {
+    "categoria": "Programação",
+    "pergunta": "Qual comando do Git envia seus commits para o repositório remoto?",
+    "opcoes": ["git push", "git pull", "git clone", "git stash"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Programação",
+    "pergunta": "Qual estrutura de dados segue o princípio LIFO (último a entrar, primeiro a sair)?",
+    "opcoes": ["Pilha", "Fila", "Árvore", "Grafo"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Programação",
+    "pergunta": "Quem criou a linguagem Python?",
+    "opcoes": [
+      "Guido van Rossum",
+      "James Gosling",
+      "Dennis Ritchie",
+      "Bjarne Stroustrup"
+    ],
+    "resposta": 0
+  },
+  {
+    "categoria": "Programação",
+    "pergunta": "Qual comando do Git cria uma nova branch e já muda para ela?",
+    "opcoes": [
+      "git checkout -b nome",
+      "git branch -d nome",
+      "git merge nome",
+      "git clone nome"
+    ],
+    "resposta": 0
+  },
+  {
+    "categoria": "Programação",
+    "pergunta": "Qual é a complexidade da busca binária em uma lista ordenada?",
+    "opcoes": ["O(log n)", "O(n)", "O(n²)", "O(1)"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Tecnologia",
+    "pergunta": "Quem fundou a Microsoft?",
+    "opcoes": [
+      "Bill Gates e Paul Allen",
+      "Steve Jobs e Steve Wozniak",
+      "Larry Page e Sergey Brin",
+      "Mark Zuckerberg e Eduardo Saverin"
+    ],
+    "resposta": 0
+  },
+  {
+    "categoria": "Tecnologia",
+    "pergunta": "O que significa a sigla CPU?",
+    "opcoes": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Core Power Unit"
+    ],
+    "resposta": 0
+  },
+  {
+    "categoria": "Tecnologia",
+    "pergunta": "Qual sistema operacional de código aberto foi criado por Linus Torvalds?",
+    "opcoes": ["Linux", "Windows", "macOS", "Android"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Tecnologia",
+    "pergunta": "O que significa a sigla URL?",
+    "opcoes": [
+      "Uniform Resource Locator",
+      "Universal Remote Link",
+      "United Resource Language",
+      "Uniform Routing Layer"
+    ],
+    "resposta": 0
+  },
+  {
+    "categoria": "Tecnologia",
+    "pergunta": "Quantos bits tem um byte?",
+    "opcoes": ["8", "4", "16", "32"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Tecnologia",
+    "pergunta": "Qual protocolo é usado para acessar páginas web de forma segura?",
+    "opcoes": ["HTTPS", "FTP", "SMTP", "SSH"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Tecnologia",
+    "pergunta": "Qual a principal função de um sistema de controle de versão, como o Git?",
+    "opcoes": [
+      "Registrar o histórico de mudanças no código",
+      "Compilar programas mais rápido",
+      "Proteger o computador contra vírus",
+      "Hospedar sites na internet"
+    ],
+    "resposta": 0
+  },
+  {
+    "categoria": "Conhecimentos Gerais",
+    "pergunta": "Qual é a capital do Brasil?",
+    "opcoes": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Conhecimentos Gerais",
+    "pergunta": "Qual é o maior planeta do Sistema Solar?",
+    "opcoes": ["Júpiter", "Saturno", "Terra", "Netuno"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Conhecimentos Gerais",
+    "pergunta": "Quem pintou a Mona Lisa?",
+    "opcoes": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Pablo Picasso",
+      "Vincent van Gogh"
+    ],
+    "resposta": 0
+  },
+  {
+    "categoria": "Conhecimentos Gerais",
+    "pergunta": "Quantos estados tem o Brasil (sem contar o Distrito Federal)?",
+    "opcoes": ["26", "27", "25", "24"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Conhecimentos Gerais",
+    "pergunta": "Qual é o maior oceano do planeta?",
+    "opcoes": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Conhecimentos Gerais",
+    "pergunta": "Em que ano o Brasil conquistou sua primeira Copa do Mundo?",
+    "opcoes": ["1958", "1950", "1962", "1970"],
+    "resposta": 0
+  },
+  {
+    "categoria": "Conhecimentos Gerais",
+    "pergunta": "Qual é a fórmula química da água?",
+    "opcoes": ["H2O", "CO2", "O2", "NaCl"],
+    "resposta": 0
+  }
+]
