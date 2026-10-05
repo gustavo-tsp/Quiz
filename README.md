@@ -3,7 +3,7 @@
 Um jogo de perguntas e respostas feito em Python para rodar direto no terminal.
 Sem dependências externas.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Perguntas separadas por categoria (ou todas misturadas)
 - Você escolhe quantas perguntas quer responder
@@ -13,7 +13,7 @@ Sem dependências externas.
 - Cores no terminal e feedback imediato de acerto/erro
 - Banco de perguntas em JSON, fácil de editar
 
-## 🚀 Como rodar
+##  Como rodar
 
 Requisito: Python 3.8 ou superior.
 
@@ -44,12 +44,12 @@ Edite o arquivo `perguntas.json` e adicione um objeto neste formato:
 - `resposta`: índice da alternativa correta, **começando do zero** (`0` = primeira opção)
 - Categorias novas aparecem automaticamente no menu
 
-## 🧮 Pontuação
+## Pontuação
 
 - Cada acerto vale **10 pontos**
 - Responder rápido dá até **+5 de bônus** (5 pontos em menos de 2s, caindo 1 ponto a cada 2s)
 
-## 📁 Estrutura
+## Estrutura
 
 ```
 quiz-terminal/
@@ -59,14 +59,9 @@ quiz-terminal/
 └── README.md
 ```
 
-## 💡 Ideias para evoluir
+## Ideias para evoluir
 
 - Limite de tempo por pergunta
 - Níveis de dificuldade
 - Importar perguntas de uma API
 - Modo multijogador local
-
-## 📄 Licença
-
-Escolha uma licença para o seu repositório (por exemplo MIT) em
-[choosealicense.com](https://choosealicense.com/).
